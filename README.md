@@ -2,8 +2,32 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+The frontend app (this one) was scaffolding using Create React App, and build withReact,React BootStrap React Router and (which in turn uses BootStrap). TypeScript is the language of choice. The backend is built using json-server . The icons used have been courtesy Font Awesome.
 
+Functionality as per project GuideLines
+User is able to search the movies type 🎥:- coming soon, Movies in theaters, top rated Indian, top rated movies.
+User is able to see all the movie's basic information (poster, title) in the selected Movie Type
+User get the option to view my favorite 📃 list.
+Add to Favourites by clicking on heart 💓 button
+Delete From favourite by clicking the trash 🗑️ button
+click on ℹ️ button to see the full details of Movie
+Search 🔎 for the excact name of the movie its case Sensitive as of now
+
+
+The author would like to thank for providing an API The author also thanks the people who shared the images (for commercial and royalty-free usage) which are used in this site.
+
+
+For Users who like to try
+Requriments to use
+1. Start the json Server on port 3001.
+2. command for json server is json-server data.json --port 3001.
+3. now for Client Side: install node from https://nodejs.org/en/.
+4. open another terminal and in project folder cd movies-on-the-yip.
+5. run npm install and npm start this will install required lib's and start the project.
+6. enjoy.
+Any developement ideas for the future of the application are always welcome.😎😎😎
+//
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
@@ -44,3 +68,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
