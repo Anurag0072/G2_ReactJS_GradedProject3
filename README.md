@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Start the json server for the file data.json to run the app.🙂😎
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The frontend app (this one) was scaffolding using Create React App, and build withReact,React BootStrap React Router and (which in turn uses BootStrap). TypeScript is the language of choice. The backend is built using json-server . The icons used have been courtesy Font Awesome.
